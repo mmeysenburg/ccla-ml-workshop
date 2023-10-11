@@ -14,7 +14,7 @@ The current lessons are:
 
 1. [Machine learning introduction](./2023-10-11-machine-learning-introduction/)
 2. [School attendance rates regression](2023-10-11-attendance-rates-regression/)
-3. Iris classification
+3. [Iris classification](2023-10-11-iris-classification/)
 4. Breast cancer tumor classification
 
 New content will be added periodically, and each new addition will be 
