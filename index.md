@@ -12,9 +12,10 @@ enough of an introduction to get started with your own projects.
 
 The current lessons are:
 
-1. School attendance rates regression
-2. Iris classification
-3. Breast cancer tumor classification
+1. [Machine learning introduction](./2023-10-11-machine-learning-introduction/)
+2. School attendance rates regression
+3. Iris classification
+4. Breast cancer tumor classification
 
 New content will be added periodically, and each new addition will be 
 accompanied by a new blog post. 
