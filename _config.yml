@@ -20,6 +20,8 @@ author: Mark M. Meysenburg
 ###############################################
 
 navbar-links:
+  Lessons:
+    - Machine Learning introduction: "2023-10-11-machine-learning-introduction/"
   CCLA home: "https://web.doane.edu/colleges-divisions-programs/institute-for-computing/center-computing-liberal-arts"
 
 ################
@@ -64,7 +66,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0003-2835-9659
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
@@ -111,7 +113,7 @@ post_search: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "machine learning,python,Doane Computing"
 
 ######################################
 # --- Colours / background image --- #
