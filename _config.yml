@@ -23,6 +23,7 @@ navbar-links:
   Lessons:
     - Intro: "2023-10-11-machine-learning-introduction/"
     - Attendance regression: "2023-10-11-attendance-rates-regression/"
+    - Iris classification: "2023-10-11-iris-classification/"
   CCLA home: "https://web.doane.edu/colleges-divisions-programs/institute-for-computing/center-computing-liberal-arts"
 
 ################
