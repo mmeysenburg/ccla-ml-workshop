@@ -1,12 +1,10 @@
-﻿---
+---
 layout: post
 title: Machine Learning (Introduction)
 subtitle: Want your computer to learn? Start here!
-cover-img: /assets/img/machine_learning_icon.png
-share-img: /assets/img/machine_learning_icon.png
 tags: [classification, regression]
+comments: false
 ---
-
 
 Machine learning is a type of artificial intelligence, where we somehow make a computer learn how to solve a problem, without having to explicitly program the machine to solve the problem. In other words, the computer learns how to solve a problem that we could not otherwise develop a program to solve. 
 
