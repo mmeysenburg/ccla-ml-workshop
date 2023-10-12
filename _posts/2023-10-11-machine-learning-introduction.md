@@ -16,4 +16,4 @@ In a regression problem, we want the computer to predict some value, based on a 
 
 In a classification problem, we try to take some related data about an event or object and try to determine which class of event or item the data instance belongs to. The second lesson in the workshop is an example of a classification problem, where we try to classify iris plants based on the measured sizes of their petals. 
 
-Ready to start? Great! Here is a [link](2023-10-11-attendance-rates-regression/) to the first lesson.
+Ready to start? Great! Here is a [link](../2023-10-11-attendance-rates-regression/) to the first lesson.
